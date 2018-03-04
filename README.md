@@ -12,8 +12,7 @@ React
 If you have above things then
 
 
-copy these files and run follwoing commands
+copy these files and run following commands
 
-npm install
-
-npm start
+#### npm install
+#### npm start
